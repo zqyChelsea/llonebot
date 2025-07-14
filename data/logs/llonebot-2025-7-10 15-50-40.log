@@ -1,0 +1,20 @@
+[info] | 2025-07-10 15:50:41 | WebUI 端口: 3080
+
+[info] | 2025-07-10 15:50:41 | LLOneBot/5.3.0
+
+[info] | 2025-07-10 15:50:41 | OneBot V11 WebSocket server started 127.0.0.1:3001
+
+[info] | 2025-07-10 15:50:42 | OneBot V11 HTTP SSE started 127.0.0.1:3000/_events
+
+[info] | 2025-07-10 15:50:42 | auto creating table file_v2
+
+[info] | 2025-07-10 15:50:42 | auto creating table forward
+
+[info] | 2025-07-10 15:50:42 | auto creating table message
+
+[info] | 2025-07-10 15:50:42 | OneBot V11 HTTP server started 127.0.0.1:3000
+
+[info] | 2025-07-10 15:55:21 | Satori server started 127.0.0.1:5600
+
+[warn] | 2025-07-10 15:56:04 | 端口 5600 已被占用
+

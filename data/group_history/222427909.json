@@ -1,0 +1,636 @@
+[
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752334638,
+    "message_id": 265820893,
+    "message_seq": 92452,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不少了[CQ:face,id=317]又不是医院 哪有那么多经费拿来奖励",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不少了"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "317"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "又不是医院 哪有那么多经费拿来奖励"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752334645,
+    "message_id": 557629846,
+    "message_seq": 92453,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "数据也是老板的",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "数据也是老板的"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 975448905,
+    "time": 1752334675,
+    "message_id": 568822586,
+    "message_seq": 92454,
+    "message_type": "group",
+    "sender": {
+      "user_id": 975448905,
+      "nickname": "架空刹那",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:reply,id=1812276211][CQ:at,qq=110716567,name=要发文的弟弟] 我觉得对本科生不需要如此",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "reply",
+        "data": {
+          "id": "1812276211"
+        }
+      },
+      {
+        "type": "at",
+        "data": {
+          "qq": "110716567",
+          "name": "要发文的弟弟"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 我觉得对本科生不需要如此"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 975448905,
+    "time": 1752334683,
+    "message_id": 1381272697,
+    "message_seq": 92455,
+    "message_type": "group",
+    "sender": {
+      "user_id": 975448905,
+      "nickname": "架空刹那",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "我打算建议他们用Windows",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "我打算建议他们用Windows"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 975448905,
+    "time": 1752334689,
+    "message_id": 1699974961,
+    "message_seq": 92456,
+    "message_type": "group",
+    "sender": {
+      "user_id": 975448905,
+      "nickname": "架空刹那",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "因为方便打游戏",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "因为方便打游戏"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 975448905,
+    "time": 1752334692,
+    "message_id": 1070781760,
+    "message_seq": 92457,
+    "message_type": "group",
+    "sender": {
+      "user_id": 975448905,
+      "nickname": "架空刹那",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "（）",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "（）"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2662020151,
+    "time": 1752336307,
+    "message_id": 1877507013,
+    "message_seq": 92458,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2662020151,
+      "nickname": "Vinnish",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "10分才2k？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "10分才2k？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2662020151,
+    "time": 1752336313,
+    "message_id": 1795557397,
+    "message_seq": 92459,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2662020151,
+      "nickname": "Vinnish",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "下海吧",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "下海吧"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2662020151,
+    "time": 1752336320,
+    "message_id": 655620615,
+    "message_seq": 92460,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2662020151,
+      "nickname": "Vinnish",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=C7F33FA69EFDF7A7A6D403E0E4B33D72.png,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&amp;spec=0&amp;rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciMiS-KihcDfIaxLLbz2zBkCsi5AfuRy7Jw,file_size=1869658]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "C7F33FA69EFDF7A7A6D403E0E4B33D72.png",
+          "subType": 1,
+          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&spec=0&rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciMiS-KihcDfIaxLLbz2zBkCsi5AfuRy7Jw",
+          "file_size": "1869658"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2056981798,
+    "time": 1752336343,
+    "message_id": 1822416034,
+    "message_seq": 92461,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2056981798,
+      "nickname": "普尔弥什",
+      "card": "AHMU",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "还没擦边挣得多",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "还没擦边挣得多"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2056981798,
+    "time": 1752336345,
+    "message_id": 140509172,
+    "message_seq": 92462,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2056981798,
+      "nickname": "普尔弥什",
+      "card": "AHMU",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=8BCD4BBD21A1BDB83E4AF483D71B811A.jpg,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&amp;spec=0&amp;rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciCqUl40ZrZtXVrLSGzw3woPeEOgz8gb1tQ,file_size=77724]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "8BCD4BBD21A1BDB83E4AF483D71B811A.jpg",
+          "subType": 1,
+          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&spec=0&rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciCqUl40ZrZtXVrLSGzw3woPeEOgz8gb1tQ",
+          "file_size": "77724"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752336369,
+    "message_id": 1573294145,
+    "message_seq": 92463,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "樂 真不少了吧 毕竟自己还占着一作呢",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "樂 真不少了吧 毕竟自己还占着一作呢"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752336381,
+    "message_id": 1104941281,
+    "message_seq": 92464,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不给一作那确实太少了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不给一作那确实太少了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 376556361,
+    "time": 1752366629,
+    "message_id": 309049414,
+    "message_seq": 92465,
+    "message_type": "group",
+    "sender": {
+      "user_id": 376556361,
+      "nickname": "√酷酷",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:reply,id=1272767442][CQ:at,qq=3564116130,name=统计-paul] claude 可以每天免费用多次。",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "reply",
+        "data": {
+          "id": "1272767442"
+        }
+      },
+      {
+        "type": "at",
+        "data": {
+          "qq": "3564116130",
+          "name": "统计-paul"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " claude 可以每天免费用多次。"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 376556361,
+    "time": 1752366672,
+    "message_id": 1488867471,
+    "message_seq": 92466,
+    "message_type": "group",
+    "sender": {
+      "user_id": 376556361,
+      "nickname": "√酷酷",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "gpt4o最近感觉很不听话[CQ:face,id=13]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "gpt4o最近感觉很不听话"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "13"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752397422,
+    "message_id": 294934413,
+    "message_seq": 92467,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "每版发布一段时间之后都变得呆呆的",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "每版发布一段时间之后都变得呆呆的"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752397424,
+    "message_id": 657542103,
+    "message_seq": 92468,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "很奇怪",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "很奇怪"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752397442,
+    "message_id": 1053478486,
+    "message_seq": 92469,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不得不合理怀疑是不是把算力拿去干别的了 暗中降级",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不得不合理怀疑是不是把算力拿去干别的了 暗中降级"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 110716567,
+    "time": 1752397466,
+    "message_id": 590622707,
+    "message_seq": 92470,
+    "message_type": "group",
+    "sender": {
+      "user_id": 110716567,
+      "nickname": "要发文的弟弟",
+      "card": "",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "就算是用api调用也很奇怪",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "就算是用api调用也很奇怪"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 413928596,
+    "time": 1752426357,
+    "message_id": 2026942580,
+    "message_seq": 92471,
+    "message_type": "group",
+    "sender": {
+      "user_id": 413928596,
+      "nickname": "阿信",
+      "card": "张敬信",
+      "role": "owner",
+      "title": ""
+    },
+    "raw_message": "[CQ:file,file=mathmodels-0.0.4.zip,url=file:///D:/25summer/vivacity/qq-scraper/LLOneBot-win-x64-ffmpeg,file_id=/a421078a-600b-11f0-a095-52540024af62,path=,file_size=692619]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "file",
+        "data": {
+          "file": "mathmodels-0.0.4.zip",
+          "url": "file:///D:/25summer/vivacity/qq-scraper/LLOneBot-win-x64-ffmpeg",
+          "file_id": "/a421078a-600b-11f0-a095-52540024af62",
+          "path": "",
+          "file_size": "692619"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909
+  }
+]
