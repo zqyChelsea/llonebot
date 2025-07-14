@@ -1,0 +1,396 @@
+[info] | 2025-07-14 18:08:27 | WebUI 端口: 3080
+
+[info] | 2025-07-14 18:08:27 | LLOneBot/5.3.0
+
+[info] | 2025-07-14 18:08:27 | OneBot V11 WebSocket server started 127.0.0.1:3001
+
+[info] | 2025-07-14 18:08:27 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:08:27 | OneBot V11 HTTP SSE started 127.0.0.1:3000/_events
+
+[info] | 2025-07-14 18:08:27 | OneBot V11 HTTP server started 127.0.0.1:3000
+
+[info] | 2025-07-14 18:08:27 | Satori server started 127.0.0.1:5600
+
+[error] | 2025-07-14 18:08:27 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:27 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:30 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:30 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:30 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:33 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:33 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:33 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:36 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:36 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:36 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:39 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:08:39 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:08:39 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:41 | 收到 HTTP 请求 /get_group_msg_history { group_id: 222427909, message_seq: 0 }
+
+[info] | 2025-07-14 18:08:42 | 发包获取rkey成功,private:&rkey=CAQSMI9yFbu6dAcXR9z-nfMXIbB-isCTflj6uZbFBj9Fof7fIZz2sAX1A3U-s8uJfHN-VA, group:&rkey=CAQSMI9yFbu6dAcXR9z-nfMXIbB-isCTflj6ucJRc-d2JSJRAyyNGkjAo39B31nMacLytA
+
+[info] | 2025-07-14 18:08:42 | 发包获取rkey成功,private:&rkey=CAISMDrw4CCEX7qUTuI1dzZ1EHr4FSOPkM0PA0rBN3xLuwK_fvGxbq_HyOhwHtb8SMVklA, group:&rkey=CAISMDrw4CCEX7qUTuI1dzZ1EHr4FSOPkM0PA91ESWaPaCSqQ2A1NZ0nNZCLHpdA80IksQ
+
+[info] | 2025-07-14 18:08:42 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:42 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:42 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:45 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:08:45 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:08:45 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:48 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:08:48 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:08:48 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:51 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:08:51 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:08:51 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:54 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:54 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:54 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:08:57 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:08:57 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:08:57 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:00 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:00 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:00 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:03 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:03 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:03 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:06 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:06 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:06 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:09 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:09 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:09 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:12 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:12 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:12 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:15 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:15 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:15 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:18 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:18 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:18 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:21 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:21 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:21 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:24 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:24 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:24 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:27 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:27 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:27 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[error] | 2025-07-14 18:09:30 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:30 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:30 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:33 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:33 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:33 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:36 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:36 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:36 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:39 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:39 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:39 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:42 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:42 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:42 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:45 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:45 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:45 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:48 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:48 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:48 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:51 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:51 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:51 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:54 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:09:54 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:09:54 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:09:57 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:09:57 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:09:57 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:00 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:10:00 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:10:00 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:03 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:10:03 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:10:03 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:06 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:06 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:06 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:09 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:09 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:09 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:12 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:12 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:12 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:15 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:15 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:15 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:18 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:18 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:18 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:21 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:21 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:21 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:24 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:10:24 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:10:24 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:27 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:27 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:27 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:30 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:30 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:30 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:33 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:33 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:33 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:36 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:36 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:36 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:39 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:39 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:39 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:42 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:10:42 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:10:42 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:45 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:45 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:45 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:48 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:48 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:48 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:51 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:51 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:51 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:54 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:10:54 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:10:54 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:10:57 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:10:57 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:10:57 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:11:00 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:11:00 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:11:00 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[info] | 2025-07-14 18:11:03 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[info] | 2025-07-14 18:11:03 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+
+[error] | 2025-07-14 18:11:03 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:11:06 | Trying to connect to the websocket server: ws://127.0.0.1:5140/onebot
+
+[error] | 2025-07-14 18:11:06 | Error: connect ECONNREFUSED 127.0.0.1:5140
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)
+
+[info] | 2025-07-14 18:11:06 | The websocket connection: ws://127.0.0.1:5140/onebot closed, trying reconnecting...
+

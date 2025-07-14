@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+from datetime import datetime
 
 # LLOneBot HTTP API地址
 API_URL = "http://localhost:3000/get_group_msg_history"
@@ -29,6 +30,10 @@ if result.get("status") == "ok":
     save_dir = "./data/group_history"
     os.makedirs(save_dir, exist_ok=True)
     save_path = os.path.join(save_dir, f"{GROUP_ID}.json")
+    # 格式化时间戳
+    for msg in messages:
+        ts = msg.get("time", 0)
+        msg["readable_time"] = datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M:%S")
     with open(save_path, "w", encoding="utf-8") as f:
         json.dump(messages, f, ensure_ascii=False, indent=2)
     print(f"群消息已保存到: {save_path}")

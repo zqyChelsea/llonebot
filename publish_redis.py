@@ -31,7 +31,7 @@ for msg in messages:
         "id": str(msg.get("message_id", "")),
         "author": sender.get("nickname", "Unknown"),
         "time": str(msg.get("time", "")),
-        "content": msg.get("content", ""),
+        "content": msg.get("raw_message", ""),
         "profile": sender.get("avatar_url", "")
     })
 

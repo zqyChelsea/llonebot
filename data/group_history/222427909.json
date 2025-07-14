@@ -2,47 +2,6 @@
   {
     "self_id": 1720060389,
     "user_id": 110716567,
-    "time": 1752334638,
-    "message_id": 265820893,
-    "message_seq": 92452,
-    "message_type": "group",
-    "sender": {
-      "user_id": 110716567,
-      "nickname": "要发文的弟弟",
-      "card": "",
-      "role": "member",
-      "title": ""
-    },
-    "raw_message": "不少了[CQ:face,id=317]又不是医院 哪有那么多经费拿来奖励",
-    "font": 14,
-    "sub_type": "normal",
-    "message": [
-      {
-        "type": "text",
-        "data": {
-          "text": "不少了"
-        }
-      },
-      {
-        "type": "face",
-        "data": {
-          "id": "317"
-        }
-      },
-      {
-        "type": "text",
-        "data": {
-          "text": "又不是医院 哪有那么多经费拿来奖励"
-        }
-      }
-    ],
-    "message_format": "array",
-    "post_type": "message",
-    "group_id": 222427909
-  },
-  {
-    "self_id": 1720060389,
-    "user_id": 110716567,
     "time": 1752334645,
     "message_id": 557629846,
     "message_seq": 92453,
@@ -67,7 +26,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-12 23:37:25"
   },
   {
     "self_id": 1720060389,
@@ -109,7 +69,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-12 23:37:55"
   },
   {
     "self_id": 1720060389,
@@ -138,7 +99,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-12 23:38:03"
   },
   {
     "self_id": 1720060389,
@@ -167,7 +129,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-12 23:38:09"
   },
   {
     "self_id": 1720060389,
@@ -196,7 +159,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-12 23:38:12"
   },
   {
     "self_id": 1720060389,
@@ -225,7 +189,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:05:07"
   },
   {
     "self_id": 1720060389,
@@ -254,7 +219,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:05:13"
   },
   {
     "self_id": 1720060389,
@@ -270,7 +236,7 @@
       "role": "member",
       "title": ""
     },
-    "raw_message": "[CQ:image,file=C7F33FA69EFDF7A7A6D403E0E4B33D72.png,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&amp;spec=0&amp;rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciMiS-KihcDfIaxLLbz2zBkCsi5AfuRy7Jw,file_size=1869658]",
+    "raw_message": "[CQ:image,file=C7F33FA69EFDF7A7A6D403E0E4B33D72.png,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&amp;spec=0&amp;rkey=CAQSMI9yFbu6dAcXR9z-nfMXIbB-isCTflj6ucJRc-d2JSJRAyyNGkjAo39B31nMacLytA,file_size=1869658]",
     "font": 14,
     "sub_type": "normal",
     "message": [
@@ -279,14 +245,15 @@
         "data": {
           "file": "C7F33FA69EFDF7A7A6D403E0E4B33D72.png",
           "subType": 1,
-          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&spec=0&rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciMiS-KihcDfIaxLLbz2zBkCsi5AfuRy7Jw",
+          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhS5sYvZhd2bH69sjrAtMmf4Aqg_NhjajnIg_woo_p6Iv9m3jgMyBHByb2RQgL2jAVoQk10N10oSsBzUNTaBigjR5HoCpmg&spec=0&rkey=CAQSMI9yFbu6dAcXR9z-nfMXIbB-isCTflj6ucJRc-d2JSJRAyyNGkjAo39B31nMacLytA",
           "file_size": "1869658"
         }
       }
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:05:20"
   },
   {
     "self_id": 1720060389,
@@ -315,7 +282,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:05:43"
   },
   {
     "self_id": 1720060389,
@@ -331,7 +299,7 @@
       "role": "member",
       "title": ""
     },
-    "raw_message": "[CQ:image,file=8BCD4BBD21A1BDB83E4AF483D71B811A.jpg,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&amp;spec=0&amp;rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciCqUl40ZrZtXVrLSGzw3woPeEOgz8gb1tQ,file_size=77724]",
+    "raw_message": "[CQ:image,file=8BCD4BBD21A1BDB83E4AF483D71B811A.jpg,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&amp;spec=0&amp;rkey=CAISMDrw4CCEX7qUTuI1dzZ1EHr4FSOPkM0PA91ESWaPaCSqQ2A1NZ0nNZCLHpdA80IksQ,file_size=77724]",
     "font": 14,
     "sub_type": "normal",
     "message": [
@@ -340,14 +308,15 @@
         "data": {
           "file": "8BCD4BBD21A1BDB83E4AF483D71B811A.jpg",
           "subType": 1,
-          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&spec=0&rkey=CAISMKOFUXiIF_G8oVT6EVgc4U_ZmbicH_qciCqUl40ZrZtXVrLSGzw3woPeEOgz8gb1tQ",
+          "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSoJ8Q3GP1Jkrf4VmMmYGvhQec42Ric3wQg_woog8nmytm3jgMyBHByb2RQgL2jAVoQaI6H5icNG0XKOMJwPtJnLHoCPZE&spec=0&rkey=CAISMDrw4CCEX7qUTuI1dzZ1EHr4FSOPkM0PA91ESWaPaCSqQ2A1NZ0nNZCLHpdA80IksQ",
           "file_size": "77724"
         }
       }
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:05:45"
   },
   {
     "self_id": 1720060389,
@@ -376,7 +345,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:06:09"
   },
   {
     "self_id": 1720060389,
@@ -405,7 +375,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 00:06:21"
   },
   {
     "self_id": 1720060389,
@@ -447,7 +418,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 08:30:29"
   },
   {
     "self_id": 1720060389,
@@ -482,7 +454,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 08:31:12"
   },
   {
     "self_id": 1720060389,
@@ -511,7 +484,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 17:03:42"
   },
   {
     "self_id": 1720060389,
@@ -540,7 +514,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 17:03:44"
   },
   {
     "self_id": 1720060389,
@@ -569,7 +544,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 17:04:02"
   },
   {
     "self_id": 1720060389,
@@ -598,7 +574,8 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-13 17:04:26"
   },
   {
     "self_id": 1720060389,
@@ -631,6 +608,50 @@
     ],
     "message_format": "array",
     "post_type": "message",
-    "group_id": 222427909
+    "group_id": 222427909,
+    "readable_time": "2025-07-14 01:05:57"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1518923003,
+    "time": 1752465632,
+    "message_id": 537012383,
+    "message_seq": 92472,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1518923003,
+      "nickname": "王韩公瑾",
+      "card": "医生-一万",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:at,qq=110716567,name=要发文的弟弟] 你好，请问iptw进行队列研究，进行亚组分析是不是要重新加权呢？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "at",
+        "data": {
+          "qq": "110716567",
+          "name": "要发文的弟弟"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " "
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "你好，请问iptw进行队列研究，进行亚组分析是不是要重新加权呢？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 222427909,
+    "readable_time": "2025-07-14 12:00:32"
   }
 ]
