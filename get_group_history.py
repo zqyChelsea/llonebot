@@ -14,7 +14,8 @@ MESSAGE_SEQ = 0
 
 payload = {
     "group_id": GROUP_ID,
-    "message_seq": MESSAGE_SEQ
+    "message_seq": MESSAGE_SEQ,
+    "count":100
 }
 
 try:
