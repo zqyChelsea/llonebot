@@ -29,7 +29,8 @@ QQ Group: https://qm.qq.com/q/NsbdKiQ3eg
 
 【chat_service.py 提供 FastAPI 实时接口】
 
-1. 启动 FastAPI 服务：
+1. 启动 FastAPI 服务 (Windows Powershell)：
+   $env:GROUP_ID="QQ群号"
    uvicorn chat_service:app --reload
 
 2. 访问接口获取并发布群消息：
@@ -62,7 +63,8 @@ English Guide
 
 [chat_service.py: Provide FastAPI Real-time API]
 
-1. Start the FastAPI service:
+1. Start the FastAPI service: (Windows Powershell)：
+   $env:GROUP_ID="enter the QQ group id"
    uvicorn chat_service:app --reload
 
 2. Access the API to fetch and publish group messages:

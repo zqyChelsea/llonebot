@@ -6,12 +6,14 @@ import redis
 import os
 import json
 from datetime import datetime
+import threading
+import time
 
 # 配置
 LLOBOT_API_URL = "http://localhost:3000/get_group_msg_history"
 REDIS_HOST = "127.0.0.1"
 REDIS_PORT = 6379
-GROUP_ID = "222427909"  # 可根据实际需求动态传参
+GROUP_ID = os.environ.get("GROUP_ID", "222427909")  # 可通过环境变量或默认值
 
 # FastAPI 实例
 app = FastAPI()
@@ -84,6 +86,50 @@ class RedisPublisher:
 # 实例化服务
 fetcher = LLOneBotChatHistoryFetcher(LLOBOT_API_URL)
 publisher = RedisPublisher(REDIS_HOST, REDIS_PORT)
+
+def periodic_fetch_and_publish(group_id: str, interval_sec: int = 3600):
+    fetcher = LLOneBotChatHistoryFetcher(LLOBOT_API_URL)
+    publisher = RedisPublisher(REDIS_HOST, REDIS_PORT)
+    save_dir = "./data/group_history"
+    os.makedirs(save_dir, exist_ok=True)
+    while True:
+        try:
+            messages = fetcher.fetch_group_history(group_id, count=150)
+            thread = Thread(
+                id=group_id,
+                title=f"Group {group_id} Chat History",
+                subtitle="",
+                status="active",
+                createdAt=messages[-1]["readable_time"] if messages else "",
+                commentCount=len(messages),
+                riceScore=0,
+                discordThreadId="",
+                messages=[
+                    Message(
+                        id=str(msg.get("message_id", "")),
+                        author=msg.get("sender", {}).get("nickname", "Unknown"),
+                        time=msg.get("readable_time", ""),
+                        content=msg.get("raw_message", ""),
+                        profile=""
+                    ) for msg in messages
+                ]
+            )
+            # 覆盖保存json
+            save_path = os.path.join(save_dir, f"{group_id}.json")
+            with open(save_path, "w", encoding="utf-8") as f:
+                json.dump(messages, f, ensure_ascii=False, indent=2)
+            # 发布到redis
+            publisher.publish_thread(group_id, thread)
+            print(f"[{datetime.now()}] 已自动获取并发布群 {group_id} 的最新150条消息，并覆盖保存到 {save_path}")
+        except Exception as e:
+            print(f"[{datetime.now()}] 定时任务出错: {e}")
+        time.sleep(interval_sec)
+
+# 启动FastAPI时自动启动定时任务线程
+@app.on_event("startup")
+def start_periodic_task():
+    t = threading.Thread(target=periodic_fetch_and_publish, args=(GROUP_ID,), daemon=True)
+    t.start()
 
 @app.get("/group/{group_id}/history", response_model=Thread)
 def get_and_publish_group_history(group_id: str):
