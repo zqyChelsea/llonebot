@@ -1,0 +1,3278 @@
+[
+  {
+    "self_id": 1720060389,
+    "user_id": 2418479509,
+    "time": 1668960170,
+    "message_id": 987230335,
+    "message_seq": 71980,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2418479509,
+      "nickname": "拉赫玛尼诺夫",
+      "card": "22 COMP 丁泓赫",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "也可以",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "也可以"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-21 00:02:50"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2418479509,
+    "time": 1668960180,
+    "message_id": 1559309786,
+    "message_seq": 71981,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2418479509,
+      "nickname": "拉赫玛尼诺夫",
+      "card": "22 COMP 丁泓赫",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "看白马繁华解说阿根廷",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "看白马繁华解说阿根廷"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-21 00:03:00"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2418479509,
+    "time": 1668960182,
+    "message_id": 225294006,
+    "message_seq": 71982,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2418479509,
+      "nickname": "拉赫玛尼诺夫",
+      "card": "22 COMP 丁泓赫",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:face,id=277][CQ:face,id=76]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "face",
+        "data": {
+          "id": "277"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "76"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-21 00:03:02"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2854196310,
+    "time": 1669039200,
+    "message_id": 777809815,
+    "message_seq": 71983,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2854196310,
+      "nickname": "",
+      "card": "【潜水】Q群管家(2854196310)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@全体成员 欢迎新生到群文件翻阅迎新资料并且在群成员中联系省爸省妈加入省群。为了维护良好的交流氛围，群主将定时在每周日22：00移除未按规定修改群备注的用户。\n——来自群管理员（1914003960）的编辑",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@全体成员"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 欢迎新生到群文件翻阅迎新资料并且在群成员中联系省爸省妈加入省群。为了维护良好的交流氛围，群主将定时在每周日22：00移除未按规定修改群备注的用户。\n——来自群管理员（1914003960）的编辑"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-21 22:00:00"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2112296402,
+    "time": 1669113175,
+    "message_id": 59332607,
+    "message_seq": 71986,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2112296402,
+      "nickname": "",
+      "card": "【潜水】22 ABCT 张泽优(2112296402)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "问一下uu们那个土瓜湾美华工业中心的自提点怎么走呀[CQ:face,id=5]，还没去过",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "问一下uu们那个土瓜湾美华工业中心的自提点怎么走呀"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "5"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "，还没去过"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-22 18:32:55"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1579411741,
+    "time": 1669125461,
+    "message_id": 1620804254,
+    "message_seq": 71987,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1579411741,
+      "nickname": "",
+      "card": "【潜水】21EAL刘阳 找人碧蓝(1579411741)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-99DDD6F6F5F56E0C301869C05574797E/0,file_size=43818]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-99DDD6F6F5F56E0C301869C05574797E/0",
+          "file_size": "43818"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-22 21:57:41"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2854196310,
+    "time": 1669137228,
+    "message_id": 588894240,
+    "message_seq": 71988,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2854196310,
+      "nickname": "",
+      "card": "【潜水】Q群管家(2854196310)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@Zlatanera 请进群后以 入学年份+专业缩写+真实中文姓名 的格式更改群备注，新生欢迎到群文件翻阅迎新资料\n——来自群管理员（1914003960）的编辑",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@Zlatanera"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 请进群后以 入学年份+专业缩写+真实中文姓名 的格式更改群备注，新生欢迎到群文件翻阅迎新资料\n——来自群管理员（1914003960）的编辑"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-23 01:13:48"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1579411741,
+    "time": 1669210236,
+    "message_id": 203703441,
+    "message_seq": 71989,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1579411741,
+      "nickname": "",
+      "card": "【潜水】21EAL刘阳 找人碧蓝(1579411741)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "学校可以做核酸吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "学校可以做核酸吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-23 21:30:36"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2541066471,
+    "time": 1669211777,
+    "message_id": 1453056152,
+    "message_seq": 71990,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2541066471,
+      "nickname": "",
+      "card": "【潜水】20 AF 孔昊辰(2541066471)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不可以",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不可以"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-23 21:56:17"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1579411741,
+    "time": 1669212531,
+    "message_id": 113762292,
+    "message_seq": 71991,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1579411741,
+      "nickname": "",
+      "card": "【潜水】21EAL刘阳 找人碧蓝(1579411741)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "上学期有的",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "上学期有的"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-23 22:08:51"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1493777613,
+    "time": 1669217931,
+    "message_id": 1410831902,
+    "message_seq": 71992,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1493777613,
+      "nickname": "",
+      "card": "【潜水】21BSE 王偲骁（湖北省爸）<chou88guai@126.com>",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "请问一下有人上过cc1c04p吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "请问一下有人上过cc1c04p吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-23 23:38:51"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669251450,
+    "message_id": 2075001352,
+    "message_seq": 71995,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "请问校医院预约是不分科室的吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "请问校医院预约是不分科室的吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 08:57:30"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669251470,
+    "message_id": 2037193162,
+    "message_seq": 71996,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "外科和内科都在一个地方预约吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "外科和内科都在一个地方预约吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 08:57:50"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2831945229,
+    "time": 1669274622,
+    "message_id": 901983159,
+    "message_seq": 71997,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2831945229,
+      "nickname": "",
+      "card": "【潜水】22ME韓曉旭(2831945229)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "应该是直接去排队挂号",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "应该是直接去排队挂号"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 15:23:42"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1669275249,
+    "message_id": 567545895,
+    "message_seq": 71998,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "一个地方约",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "一个地方约"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 15:34:09"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1669275253,
+    "message_id": 1492918328,
+    "message_seq": 71999,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "除非牙科眼科",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "除非牙科眼科"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 15:34:13"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1669275263,
+    "message_id": 378106516,
+    "message_seq": 72000,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "其次是你有问题会给你安排",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "其次是你有问题会给你安排"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 15:34:23"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1669275273,
+    "message_id": 457745637,
+    "message_seq": 72001,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "提前网站约（不急的话）",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "提前网站约（不急的话）"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 15:34:33"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2854196310,
+    "time": 1669298406,
+    "message_id": 268864866,
+    "message_seq": 72002,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2854196310,
+      "nickname": "",
+      "card": "【潜水】Q群管家(2854196310)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@全体成员 欢迎新生到群文件翻阅迎新资料并且在群成员中联系省爸省妈加入省群。为了维护良好的交流氛围，群主将定时在每周日22：00移除未按规定修改群备注的用户。\n——来自群管理员（1914003960）的编辑",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@全体成员"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 欢迎新生到群文件翻阅迎新资料并且在群成员中联系省爸省妈加入省群。为了维护良好的交流氛围，群主将定时在每周日22：00移除未按规定修改群备注的用户。\n——来自群管理员（1914003960）的编辑"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-24 22:00:06"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669375085,
+    "message_id": 513644113,
+    "message_seq": 72003,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "xdm",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "xdm"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 19:18:05"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669375101,
+    "message_id": 174389639,
+    "message_seq": 72004,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "这边的医院伤口清理要预约吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "这边的医院伤口清理要预约吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 19:18:21"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669375107,
+    "message_id": 868673033,
+    "message_seq": 72005,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不是校医院",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不是校医院"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 19:18:27"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669375112,
+    "message_id": 686799292,
+    "message_seq": 72006,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "政府的医院",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "政府的医院"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 19:18:32"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 707886957,
+    "time": 1669383069,
+    "message_id": 861074058,
+    "message_seq": 72007,
+    "message_type": "group",
+    "sender": {
+      "user_id": 707886957,
+      "nickname": "",
+      "card": "21 SCMA 李德豪(707886957)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "公立医院都要预约吧",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "公立医院都要预约吧"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:31:09"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383121,
+    "message_id": 953670062,
+    "message_seq": 72008,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "建议校医",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "建议校医"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:32:01"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 707886957,
+    "time": 1669383134,
+    "message_id": 2081160598,
+    "message_seq": 72009,
+    "message_type": "group",
+    "sender": {
+      "user_id": 707886957,
+      "nickname": "",
+      "card": "21 SCMA 李德豪(707886957)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不差钱私立医院更快（一小时之内），公立医院经常排队两三个小时",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不差钱私立医院更快（一小时之内），公立医院经常排队两三个小时"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:32:14"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383146,
+    "message_id": 143728678,
+    "message_seq": 72010,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "公立医院排队到怀疑人生",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "公立医院排队到怀疑人生"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:32:26"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383155,
+    "message_id": 2072971132,
+    "message_seq": 72011,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不然校医院的意义何在",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不然校医院的意义何在"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:32:35"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 707886957,
+    "time": 1669383167,
+    "message_id": 757107653,
+    "message_seq": 72012,
+    "message_type": "group",
+    "sender": {
+      "user_id": 707886957,
+      "nickname": "",
+      "card": "21 SCMA 李德豪(707886957)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "校医好像也不好预约[CQ:face,id=264]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "校医好像也不好预约"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "264"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:32:47"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383196,
+    "message_id": 1005216134,
+    "message_seq": 72013,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "伤口处理walkin就行",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "伤口处理walkin就行"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:33:16"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383215,
+    "message_id": 1715630495,
+    "message_seq": 72014,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "伤口处理和急诊直接在工作时间就能walkin",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "伤口处理和急诊直接在工作时间就能walkin"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:33:35"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669383239,
+    "message_id": 1135143169,
+    "message_seq": 72015,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "非工作时间找个诊所看看就行了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "非工作时间找个诊所看看就行了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 21:33:59"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1669388363,
+    "message_id": 1517289891,
+    "message_seq": 72016,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@22 ME陈祁 要预约，我之前忘记预约的时候护士姐姐还给我打了电话催我预约（）说不能walk in",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@22 ME陈祁"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 要预约，我之前忘记预约的时候护士姐姐还给我打了电话催我预约（）说不能walk in"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 22:59:23"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669388876,
+    "message_id": 31762257,
+    "message_seq": 72017,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "好，谢谢🙏",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "好，谢谢"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🙏"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:07:56"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1669389067,
+    "message_id": 224461656,
+    "message_seq": 72018,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@20 CS 弘树 微软合作伙伴网络 校医院让我去找政府医院的[CQ:face,id=182]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@20 CS 弘树 微软合作伙伴网络"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 校医院让我去找政府医院的"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "182"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:11:07"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669389682,
+    "message_id": 1624347977,
+    "message_seq": 72019,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "额",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "额"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:21:22"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669389695,
+    "message_id": 1216348199,
+    "message_seq": 72020,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "非工作时间校医院不开门",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "非工作时间校医院不开门"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:21:35"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669389706,
+    "message_id": 205830128,
+    "message_seq": 72021,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "那只能找外面的",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "那只能找外面的"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:21:46"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669389728,
+    "message_id": 1702927841,
+    "message_seq": 72022,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "我清理伤口 包括小擦伤",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "我清理伤口 包括小擦伤"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:22:08"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1669389735,
+    "message_id": 1053960720,
+    "message_seq": 72023,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "都是直接walkin",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "都是直接walkin"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2022-11-25 23:22:15"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1688308320,
+    "message_id": 1824441783,
+    "message_seq": 76126,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "xdm电机工程是EE还是什么啊",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "xdm电机工程是EE还是什么啊"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:32:00"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1688308518,
+    "message_id": 292483314,
+    "message_seq": 76127,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "应该是EE吧？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "应该是EE吧？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:35:18"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1688308548,
+    "message_id": 805014280,
+    "message_seq": 76128,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-0A978FA39F27DEE8D78BF21A1BF299B8/0,file_size=38373]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-0A978FA39F27DEE8D78BF21A1BF299B8/0",
+          "file_size": "38373"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:35:48"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1374921316,
+    "time": 1688309441,
+    "message_id": 2047559213,
+    "message_seq": 76129,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1374921316,
+      "nickname": "",
+      "card": "【潜水】20 CS 弘树 微软合作伙伴网络(1374921316)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "今年新招生的，似乎统一eee了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "今年新招生的，似乎统一eee了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:50:41"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2854805594,
+    "time": 1688309559,
+    "message_id": 937431538,
+    "message_seq": 76130,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2854805594,
+      "nickname": "",
+      "card": "【潜水】22EIE卢丁夫(2854805594)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "确实",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "确实"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:52:39"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3384991918,
+    "time": 1688309854,
+    "message_id": 1691833401,
+    "message_seq": 76131,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3384991918,
+      "nickname": "",
+      "card": "【潜水】22EE张涵萁(3384991918)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "专业没合并",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "专业没合并"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:57:34"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3384991918,
+    "time": 1688309860,
+    "message_id": 1078103951,
+    "message_seq": 76132,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3384991918,
+      "nickname": "",
+      "card": "【潜水】22EE张涵萁(3384991918)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "只是部门合并了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "只是部门合并了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:57:40"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3384991918,
+    "time": 1688309866,
+    "message_id": 1790586350,
+    "message_seq": 76133,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3384991918,
+      "nickname": "",
+      "card": "【潜水】22EE张涵萁(3384991918)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "还是EE",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "还是EE"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 22:57:46"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1688311621,
+    "message_id": 145675310,
+    "message_seq": 76134,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "谢谢了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "谢谢了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-02 23:27:01"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1688481288,
+    "message_id": 886257402,
+    "message_seq": 76135,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "请问有同学租过cxc的箱子吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "请问有同学租过cxc的箱子吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-04 22:34:48"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1688481303,
+    "message_id": 1990572619,
+    "message_seq": 76136,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "可不可以从hmt送到hh",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "可不可以从hmt送到hh"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-04 22:35:03"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1493777613,
+    "time": 1688511340,
+    "message_id": 645788947,
+    "message_seq": 76137,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1493777613,
+      "nickname": "",
+      "card": "【潜水】21BSE 王偲骁（湖北省爸）<chou88guai@126.com>",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "可以但是要加钱",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "可以但是要加钱"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-05 06:55:40"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 3280165641,
+    "time": 1688517566,
+    "message_id": 443805894,
+    "message_seq": 76138,
+    "message_type": "group",
+    "sender": {
+      "user_id": 3280165641,
+      "nickname": "",
+      "card": "【潜水】22 ME陈祁(3280165641)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "谢谢",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "谢谢"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-05 08:39:26"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2693204046,
+    "time": 1688716603,
+    "message_id": 1407654765,
+    "message_seq": 76139,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2693204046,
+      "nickname": "",
+      "card": "【CMSA会长】21 SHTM 王可汉(2693204046)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "⭐ *只限PGT表演者 - 德藝書院住宿特別推薦計劃2023/24*\n\n親愛的PGT performers\n\n好消息！💖 我們從Hall Admission Committee獲得了一個特權，提供給有興趣入讀德藝書院的同學！\n\n目前排隊申請宿舍的人數約在2000-3000人，但是經PGT(PolyU’s Got Talent) 提交特別推薦計劃名單的同學將享有優先考慮。最多可提供5個名額。\n\n如果你符合以下 *所有* 要求，請報名加入Hall Admission Committee的特別推薦計劃名單！截止日期是*2023年7月12日（下周三）中午12:00*。\n\n🧐\n*要求*\n- 現時為全日制UGC資助學位課程的本科生\n- 目前未獲得宿位分配\n- 沒有宿舍犯規記錄\n- CGPA至少達2.5\n- 在2022/23年度曾經為PGT表演過至少一次\n\n🌎\n*報名連結*：\nhttps://www.polyu.edu.hk/mysurvey2/index.php/531459?lang=en\n\n❣️\n*報名截止日期*\n2023年7月12日(下星期三)\n\n*關於德藝書院*\nhttps://www.polyu.edu.hk/sao/student-resources-and-support-section/residential-life/university-managed-accommodations/residential-colleges/stars-residential-college/\n\nLove,\nPGT Working Group\n🩷🐱🐰🐶🩷",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "⭐"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " *只限PGT表演者 - 德藝書院住宿特別推薦計劃2023/24*\n\n親愛的PGT performers\n\n好消息！"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "💖"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 我們從Hall Admission Committee獲得了一個特權，提供給有興趣入讀德藝書院的同學！\n\n目前排隊申請宿舍的人數約在2000-3000人，但是經PGT(PolyU’s Got Talent) 提交特別推薦計劃名單的同學將享有優先考慮。最多可提供5個名額。\n\n如果你符合以下 *所有* 要求，請報名加入Hall Admission Committee的特別推薦計劃名單！截止日期是*2023年7月12日（下周三）中午12:00*。\n\n🧐\n*要求*\n- 現時為全日制UGC資助學位課程的本科生\n- 目前未獲得宿位分配\n- 沒有宿舍犯規記錄\n- CGPA至少達2.5\n- 在2022/23年度曾經為PGT表演過至少一次\n\n"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🌎"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "\n*報名連結*：\n"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "https://www.polyu.edu.hk/mysurvey2/index.php/531459?lang=en"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "\n\n"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "❣️"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "\n*報名截止日期*\n2023年7月12日(下星期三)\n\n*關於德藝書院*\n"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "https://www.polyu.edu.hk/sao/student-resources-and-support-section/residential-life/university-managed-accommodations/residential-colleges/stars-residential-college/"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "\n\nLove,\nPGT Working Group\n🩷"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🐱"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🐰"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🐶"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "🩷"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 15:56:43"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2984342578,
+    "time": 1688721487,
+    "message_id": 1479745710,
+    "message_seq": 76140,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2984342578,
+      "nickname": "",
+      "card": "【潜水】2022信息与人工智能，张洋逍(2984342578)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "诚招室友，何文田orange双人间男生，睡得早的[CQ:face,id=111][CQ:face,id=111][CQ:face,id=111][CQ:face,id=111]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "诚招室友，何文田orange双人间男生，睡得早的"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 17:18:07"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2770194329,
+    "time": 1688736526,
+    "message_id": 796751279,
+    "message_seq": 76141,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2770194329,
+      "nickname": "",
+      "card": "【潜水】22 EIE 刘希凯(2770194329)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "⬆️气质帅哥 性格直爽 还能带你学习 快找他",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "⬆️"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "气质帅哥 性格直爽 还能带你学习 快找他"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 21:28:46"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2145853156,
+    "time": 1688736880,
+    "message_id": 1132380493,
+    "message_seq": 76142,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2145853156,
+      "nickname": "",
+      "card": "【潜水】22 ABCT 刘哲闻 VRC+(2145853156)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "黄金之风气质帅哥[CQ:face,id=277]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "黄金之风气质帅哥"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "277"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 21:34:40"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1579411741,
+    "time": 1688736896,
+    "message_id": 1526206950,
+    "message_seq": 76143,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1579411741,
+      "nickname": "",
+      "card": "【潜水】21EAL刘阳 找人碧蓝(1579411741)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "秧歌star",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "秧歌star"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 21:34:56"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1579411741,
+    "time": 1688736913,
+    "message_id": 465204997,
+    "message_seq": 76144,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1579411741,
+      "nickname": "",
+      "card": "【潜水】21EAL刘阳 找人碧蓝(1579411741)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "ゴゴゴゴゴゴゴゴゴ",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "ゴゴゴゴゴゴゴゴゴ"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 21:35:13"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2984342578,
+    "time": 1688740025,
+    "message_id": 2090829517,
+    "message_seq": 76145,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2984342578,
+      "nickname": "",
+      "card": "【潜水】2022信息与人工智能，张洋逍(2984342578)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-9015448F94040C7A415B7ED29390EDB3/0,file_size=3290]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-9015448F94040C7A415B7ED29390EDB3/0",
+          "file_size": "3290"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-07 22:27:05"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689016318,
+    "message_id": 485275946,
+    "message_seq": 76146,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": " 有同志上过人工智能与科幻小说吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": " 有同志上过人工智能与科幻小说吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 03:11:58"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689016324,
+    "message_id": 313780511,
+    "message_seq": 76147,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "给分咋样",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "给分咋样"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 03:12:04"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 707886957,
+    "time": 1689029397,
+    "message_id": 1617677544,
+    "message_seq": 76148,
+    "message_type": "group",
+    "sender": {
+      "user_id": 707886957,
+      "nickname": "",
+      "card": "【潜水】21 SCMA 李德豪(707886957)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不错",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不错"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 06:49:57"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2967038921,
+    "time": 1689046700,
+    "message_id": 2066899907,
+    "message_seq": 76149,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2967038921,
+      "nickname": "",
+      "card": "22 EIE王开元(2967038921)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "多少算不错🥹",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "多少算不错🥹"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 11:38:20"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689057712,
+    "message_id": 33034531,
+    "message_seq": 76150,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "ok",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "ok"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 14:41:52"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689057725,
+    "message_id": 166284592,
+    "message_seq": 76151,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "多谢大家[CQ:face,id=111][CQ:face,id=111]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "多谢大家"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 14:42:05"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689073897,
+    "message_id": 335071970,
+    "message_seq": 76152,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "学校附近有什么仓推荐吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "学校附近有什么仓推荐吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 19:11:37"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689076078,
+    "message_id": 2106240768,
+    "message_seq": 76154,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "@2022ABCT张语潇 之前内协推荐的？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "@2022ABCT张语潇"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": " 之前内协推荐的？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 19:47:58"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689076280,
+    "message_id": 895268224,
+    "message_seq": 76155,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "RS1A02 Obsession, Compulsion and Addictions in Modern Life给分咋样[CQ:face,id=111][CQ:face,id=111]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "RS1A02 Obsession, Compulsion and Addictions in Modern Life给分咋样"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 19:51:20"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1208996263,
+    "time": 1689076745,
+    "message_id": 349276461,
+    "message_seq": 76156,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1208996263,
+      "nickname": "",
+      "card": "【潜水】22 EIE 孔润泽(1208996263)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "还有AFIBNO1 Economic Logic in Everyday Life给分咋样[CQ:face,id=111][CQ:face,id=111]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "还有AFIBNO1 Economic Logic in Everyday Life给分咋样"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 19:59:05"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689086257,
+    "message_id": 974619739,
+    "message_seq": 76157,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "如果没及格，会怎么样",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "如果没及格，会怎么样"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 22:37:37"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689086263,
+    "message_id": 131931141,
+    "message_seq": 76158,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-2F3E6E6C63FF6EB44AE8B09B7C09B683/0,file_size=19760]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-2F3E6E6C63FF6EB44AE8B09B7C09B683/0",
+          "file_size": "19760"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 22:37:43"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2770194329,
+    "time": 1689086288,
+    "message_id": 604911648,
+    "message_seq": 76159,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2770194329,
+      "nickname": "",
+      "card": "22 EIE 刘希凯(2770194329)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "会fail掉 然后必须重修",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "会fail掉 然后必须重修"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 22:38:08"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689086321,
+    "message_id": 1272399091,
+    "message_seq": 76160,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "暑假课也必须重修吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "暑假课也必须重修吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 22:38:41"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2770194329,
+    "time": 1689087211,
+    "message_id": 1827248260,
+    "message_seq": 76161,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2770194329,
+      "nickname": "",
+      "card": "22 EIE 刘希凯(2770194329)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "不清楚 应该是吧",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "不清楚 应该是吧"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 22:53:31"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689089503,
+    "message_id": 867018307,
+    "message_seq": 76162,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "一般情况应该不给fail，彻底fail的话，你现在没有到大二",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "一般情况应该不给fail，彻底fail的话，你现在没有到大二"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:31:43"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689089507,
+    "message_id": 949975306,
+    "message_seq": 76163,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "你随便withdraw",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "你随便withdraw"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:31:47"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689089524,
+    "message_id": 1184728974,
+    "message_seq": 76164,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "申请一般都给过，至于重修暑课，最好是发邮件问问",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "申请一般都给过，至于重修暑课，最好是发邮件问问"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:32:04"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2556217823,
+    "time": 1689089868,
+    "message_id": 1943729996,
+    "message_seq": 76165,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2556217823,
+      "nickname": "",
+      "card": "【潜水】22 COMP 连炯宁(2556217823)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "withdraw啥？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "withdraw啥？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:37:48"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2556217823,
+    "time": 1689089892,
+    "message_id": 2006956272,
+    "message_seq": 76166,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2556217823,
+      "nickname": "",
+      "card": "【潜水】22 COMP 连炯宁(2556217823)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "fail就可以退课？",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "fail就可以退课？"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:38:12"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689090787,
+    "message_id": 1392336724,
+    "message_seq": 76167,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-2FC37FAAB8F2C6F0FB39884E47384A65/0,file_size=18935]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-2FC37FAAB8F2C6F0FB39884E47384A65/0",
+          "file_size": "18935"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:53:07"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689090857,
+    "message_id": 1635186789,
+    "message_seq": 76168,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "暑课拿fail不清楚，一般不拿fail，更何况暑课fail，要是缺了啥东西应该可以申请withdraw，出成绩了那就确实fail了吧。。。。",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "暑课拿fail不清楚，一般不拿fail，更何况暑课fail，要是缺了啥东西应该可以申请withdraw，出成绩了那就确实fail了吧。。。。"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:54:17"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091040,
+    "message_id": 1943368447,
+    "message_seq": 76169,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "fail之后除了留记录会有啥影响吗",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "fail之后除了留记录会有啥影响吗"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:57:20"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091045,
+    "message_id": 974804083,
+    "message_seq": 76170,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "（纯好奇）",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "（纯好奇）"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:57:25"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689091070,
+    "message_id": 869079655,
+    "message_seq": 76171,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-B08ABF437C5BBDE66429A382F5BAF358/0,file_size=4090]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-B08ABF437C5BBDE66429A382F5BAF358/0",
+          "file_size": "4090"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:57:50"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689091077,
+    "message_id": 1394893866,
+    "message_seq": 76172,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "小心劝退",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "小心劝退"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:57:57"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091095,
+    "message_id": 1698042278,
+    "message_seq": 76173,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-1F5737ABEA10F0CA4C79373E90F3C34A/0,file_size=5906]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-1F5737ABEA10F0CA4C79373E90F3C34A/0",
+          "file_size": "5906"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:58:15"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689091115,
+    "message_id": 2013366903,
+    "message_seq": 76174,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "狂fail肯定容易翻车",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "狂fail肯定容易翻车"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:58:35"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091115,
+    "message_id": 1571408571,
+    "message_seq": 76175,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "我听说好像第二年重修的时候还有学分限制来着",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "我听说好像第二年重修的时候还有学分限制来着"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:58:35"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091123,
+    "message_id": 1528964885,
+    "message_seq": 76176,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "别的具体不太清楚",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "别的具体不太清楚"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:58:43"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1808207107,
+    "time": 1689091184,
+    "message_id": 2126218102,
+    "message_seq": 76177,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1808207107,
+      "nickname": "",
+      "card": "【潜水】21 MKT李显智(1808207107)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "而且成绩单上挂一堆fail肯定也不好看",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "而且成绩单上挂一堆fail肯定也不好看"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-11 23:59:44"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091217,
+    "message_id": 366252474,
+    "message_seq": 76178,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "[CQ:image,file=,subType=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-E64D79C08964E8939D4C8C791F43CD46/0,file_size=11084]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "image",
+        "data": {
+          "file": "",
+          "subType": 0,
+          "url": "https://gchat.qpic.cn/gchatpic_new/0/0-0-E64D79C08964E8939D4C8C791F43CD46/0",
+          "file_size": "11084"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-12 00:00:17"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2278049856,
+    "time": 1689091219,
+    "message_id": 713301034,
+    "message_seq": 76179,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2278049856,
+      "nickname": "",
+      "card": "【潜水】22 AF 郑斯予(2278049856)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "了解了",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "了解了"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-12 00:00:19"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2061986694,
+    "time": 1689135031,
+    "message_id": 990185872,
+    "message_seq": 76180,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2061986694,
+      "nickname": "",
+      "card": "【潜水】21 LSGI Fy（排球排球找我）(2061986694)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "就是第二年或者下学期再上一遍吧",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "就是第二年或者下学期再上一遍吧"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-12 12:10:31"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2061986694,
+    "time": 1689135052,
+    "message_id": 1199940419,
+    "message_seq": 76181,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2061986694,
+      "nickname": "",
+      "card": "【潜水】21 LSGI Fy（排球排球找我）(2061986694)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "成绩直接覆盖 学分的话好像没什么影响",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "成绩直接覆盖 学分的话好像没什么影响"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-12 12:10:52"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 2738294859,
+    "time": 1689138092,
+    "message_id": 204397,
+    "message_seq": 76182,
+    "message_type": "group",
+    "sender": {
+      "user_id": 2738294859,
+      "nickname": "",
+      "card": "【潜水】21 EESD 吴稼闻(2738294859)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "有uu知道重修需要申请嘛 还是直接选课就行",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "有uu知道重修需要申请嘛 还是直接选课就行"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-12 13:01:32"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689196257,
+    "message_id": 1857321960,
+    "message_seq": 76183,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "【潜水】2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "直接选吧",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "直接选吧"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-13 05:10:57"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 980585583,
+    "time": 1689196264,
+    "message_id": 292027054,
+    "message_seq": 76184,
+    "message_type": "group",
+    "sender": {
+      "user_id": 980585583,
+      "nickname": "",
+      "card": "【潜水】2022ABCT张语潇(980585583)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "我之前就是直接选的",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "我之前就是直接选的"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-07-13 05:11:04"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 544157513,
+    "time": 1699952588,
+    "message_id": 1310724394,
+    "message_seq": 76368,
+    "message_type": "group",
+    "sender": {
+      "user_id": 544157513,
+      "nickname": "",
+      "card": "21 MGT 罗陈声宇(544157513)",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "想问下有没有上APSS1HN34C\tGOVERNING CHINA: CHINESE POLITICS AND LEGAL SYSTEM这课的同学，求私聊课件[CQ:face,id=111]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "想问下有没有上APSS1HN34C\tGOVERNING CHINA: CHINESE POLITICS AND LEGAL SYSTEM这课的同学，求私聊课件"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "111"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2023-11-14 17:03:08"
+  },
+  {
+    "self_id": 1720060389,
+    "user_id": 1277658989,
+    "time": 1751698047,
+    "message_id": 369412265,
+    "message_seq": 76470,
+    "message_type": "group",
+    "sender": {
+      "user_id": 1277658989,
+      "nickname": "阿撒托斯酱",
+      "card": "22EIE张礎瀚",
+      "role": "member",
+      "title": ""
+    },
+    "raw_message": "诚招明年hmt宿舍新室友[CQ:face,id=63]，男生2人间，7.8前我可以换hall，我个人习惯12点熄灯静音，中午午睡，平常玩玩主机游戏也都带耳机，几乎不开麦。主要玩怪猎，以撒，HD2，喷喷,能找到同好当室友更好。",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+      {
+        "type": "text",
+        "data": {
+          "text": "诚招明年hmt宿舍新室友"
+        }
+      },
+      {
+        "type": "face",
+        "data": {
+          "id": "63"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "text": "，男生2人间，7.8前我可以换hall，我个人习惯12点熄灯静音，中午午睡，平常玩玩主机游戏也都带耳机，几乎不开麦。主要玩怪猎，以撒，HD2，喷喷,能找到同好当室友更好。"
+        }
+      }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 313142041,
+    "readable_time": "2025-07-05 14:47:27"
+  }
+]

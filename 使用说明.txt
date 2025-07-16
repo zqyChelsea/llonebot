@@ -9,3 +9,67 @@ QQ Group: https://qm.qq.com/q/NsbdKiQ3eg
 双击 llonebot.exe 后会启动 QQ，登录 QQ 后
 浏览器访问 http://localhost:3080 进行配置
 
+【main.py 批量获取和发布群消息】
+
+1. 安装依赖（如未安装）
+   pip install -r requirements.txt
+
+2. 运行 main.py 获取并发布群消息，并保存为 json 文件：
+   python main.py --group_id <QQ群号>
+   # 可选参数：
+   # --count <条数>         # 获取消息条数，默认100
+   # --api_url <API地址>    # LLOneBot HTTP API地址，默认 http://localhost:3000/get_group_msg_history
+   # --redis_host <主机>    # Redis主机，默认127.0.0.1
+   # --redis_port <端口>    # Redis端口，默认6379
+
+3. 运行后会自动：
+   - 获取最新N条群消息
+   - 发布到 Redis 对应频道
+   - 保存为 ./data/group_history/<QQ群号>.json
+
+【chat_service.py 提供 FastAPI 实时接口】
+
+1. 启动 FastAPI 服务：
+   uvicorn chat_service:app --reload
+
+2. 访问接口获取并发布群消息：
+   http://localhost:8000/group/<QQ群号>/history
+   # 返回 thread 结构的 json，自动发布到 Redis
+
+3. 可用于 Web 前端、自动化等实时场景。
+
+====================
+English Guide
+====================
+
+[main.py: Batch Fetch and Publish Group Messages]
+
+1. Install dependencies (if not already):
+   pip install -r requirements.txt
+
+2. Run main.py to fetch and publish group messages, and save as a JSON file:
+   python main.py --group_id <GROUP_ID>
+   # Optional arguments:
+   # --count <number>         # Number of messages to fetch, default 100
+   # --api_url <API URL>      # LLOneBot HTTP API URL, default http://localhost:3000/get_group_msg_history
+   # --redis_host <host>      # Redis host, default 127.0.0.1
+   # --redis_port <port>      # Redis port, default 6379
+
+3. After running, it will automatically:
+   - Fetch the latest N group messages
+   - Publish to the corresponding Redis channel
+   - Save as ./data/group_history/<GROUP_ID>.json
+
+[chat_service.py: Provide FastAPI Real-time API]
+
+1. Start the FastAPI service:
+   uvicorn chat_service:app --reload
+
+2. Access the API to fetch and publish group messages:
+   http://localhost:8000/group/<GROUP_ID>/history
+   # Returns a thread-structured JSON and automatically publishes to Redis
+
+3. Suitable for web frontend, automation, and real-time scenarios.
+
+
+
